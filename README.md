@@ -36,6 +36,7 @@ The following was used in the making of this application:
     - express
 - Insomnia
 
-## Walkthrough Video
+## Links
 
-Video found here: https://www.youtube.com/watch?v=VEF1N40zOE4
+- Walkthrough video found here: https://www.youtube.com/watch?v=VEF1N40zOE4
+- Github Repo: https://github.com/annapng/E-Commerce-Backend
